@@ -3,7 +3,6 @@ package br.eletro.test;
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 
-import br.eletro.model.ItemRGB;
 import br.eletro.model.VectorRGB;
 import br.eletro.util.Constantes;
 import br.eletro.util.FileUtils;
